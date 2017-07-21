@@ -1,0 +1,6 @@
+
+Create an application that requests a list of accounts from a server and lists them in a ListView. Steps to perform are:
+
+- get data from server
+- parse it to a Java object
+- display it in a listview
