@@ -9,7 +9,7 @@ import retrofit2.http.GET;
  * Created by tristan on 28/11/2016.
  */
 
-public interface Accounts {
+public interface IAccounts {
 
     @GET("accounts")
     Call<ResponseBody> getAccounts();
