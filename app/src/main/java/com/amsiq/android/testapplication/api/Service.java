@@ -1,6 +1,5 @@
 package com.amsiq.android.testapplication.api;
 
-import com.amsiq.android.testapplication.BuildConfig;
 import com.google.gson.Gson;
 
 import java.util.concurrent.TimeUnit;
